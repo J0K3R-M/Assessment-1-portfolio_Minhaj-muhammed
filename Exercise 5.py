@@ -18,4 +18,4 @@ if 1 <= month <= 12:
 else:
     print('Please enter a valid number given above')
 
-print("~~THANK YOU~~")
+print("**THANK YOU**")
