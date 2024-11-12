@@ -17,3 +17,5 @@ if 1 <= month <= 12:
         print(f'The month has {days[month]} days')
 else:
     print('Please enter a valid number given above')
+
+print("~~THANK YOU~~")
