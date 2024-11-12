@@ -1,7 +1,7 @@
 #working with dictionary 
-M={'Name':'Minhaj'}
-I={'Home Town':'Alappuzha'}
-N={'Age':18}
+M=input('Name':)
+I=input('Home Town':)
+N=int(input('Age':))
 print(M)
 print(I)
 print(N)
