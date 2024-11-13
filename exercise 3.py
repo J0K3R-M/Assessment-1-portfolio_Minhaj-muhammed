@@ -9,3 +9,5 @@ print(Key2)  #Displaying the data stored in the variable Key2
 print()      #Displaying an empty line 
 Key3={"Age":18}
 print(Key3) #Displaying the data stored in the variable Key3
+
+print("~~THANK YOU~~")

@@ -84,5 +84,5 @@ if(capital.lower()=='Podgorica'):
     print('*The answer entered is correct*')
 else:
     print('*The answer entered is incorrect*')
-
-print("****THANK YOU****")
+    
+print("~~THANK YOU~~")
