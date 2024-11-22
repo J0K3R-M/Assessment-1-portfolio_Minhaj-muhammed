@@ -1,9 +1,9 @@
-names=['David',"Joseph", "Nihal", "Nabeel", "Rabi", "Josh"]
 
-search= ('Nabeel')
+names = ['David', 'Joseph', 'Nihal', 'Nabeel', 'Rabi', 'Josh']
 
-name=input('Enter the persons name you want to check: ')
-if (name.lower()==name for name in names):
-    print('The person your looking for is on the list.')
+name = input('Enter the name of the person that you want to check: ')
+
+if name.lower() in [n.lower() for n in names]:
+    print('The person you are looking for is on the list.')
 else:
-    print('The person your looking for is not on the list')
+    print('The person you are looking for is not on the list.')
