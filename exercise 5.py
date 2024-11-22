@@ -21,6 +21,6 @@ try:
         print('Please enter a valid number between 1 and 12.')
         
 except ValueError:
-    print('Please enter a valid numeric value.')
+    print('Please enter a valid number.')
 
 print("**THANK YOU**")
